@@ -10,6 +10,8 @@
 
 # portifolipessoal
 
+![Capa do projeto](img/Capa.PNG.png)
+
 # Descrição
 
 # Introdução
