@@ -23,13 +23,13 @@ O PROJETO FOI APRIMORAR AS HABILIDADES TEXTO QUE COMPÕE O README PARA MELHORAR.
 AS FUNÇAO NÃO VÃO NDA ALÉM DA CAPA DO SITE
 
 ### Tecnologias utilizados
-GIT HUB
-VISUAL CODE
-HTML
-CSS
-BOOTSTRAP
+* ``VS CODE``
+* ``GIT HUB``
+* ``CSS``
+* ``HTML``
+* ``BOOTSTRAP``
 ## Fontes consultadas
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
-https://www.alura.com.br/artigos/escrever-bom-readme
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+* [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom readme
 ## Autores
 FOI CRIADO POR EVELLYN FLAVIANE E AJUDA DO PROFESSOR LEONARDO ROCHA.
